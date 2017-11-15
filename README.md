@@ -6,7 +6,7 @@
 
 Topics:
  
-*Intro
+*Intro  
     * Directories and the matlab path 
     * Loading data
     * Datatypes and indexing
@@ -22,7 +22,7 @@ Topics:
 
 Topics:
 
-*Intro
+*Intro  
     * Directories
     * Loading data
     * Datatypes and indexing
