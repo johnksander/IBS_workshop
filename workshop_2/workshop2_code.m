@@ -141,6 +141,10 @@ outliers = sum(outliers,2) > 0; %find the bad observations (mark the rows)
 
 data = data(~outliers,:); %remove these rows using the "is not" operator 
 
+%Note: I only put high outliers in this data, but you'd want to do this 
+%for outliers on the low-end as well. You could also use absolute
+%difference to do both hi & lo in one pass. Something like this:
+%abs(data - mean(data)) > (4 * std(data))
 
 %----correlation & permutation testing with price & distance----
 
