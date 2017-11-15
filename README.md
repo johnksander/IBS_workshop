@@ -29,7 +29,7 @@
   * Looping & control statements
 * Handling large (and messy) datasets  
 * Matrix operations  
-* Plotting  
+* Basic plotting  
 * Null simulations with iterative sampling  
 * Feature selection with Lasso regression  
 
