@@ -1,11 +1,12 @@
 ## Matlab data analysis workshops for the Brandeis International Business School
 
 
------------------------------
-##### Workshop /#1 (09/29/17)
 
-Topics:
- 
+
+-----------------------------
+##### Workshop \#1 (09/29/17) topics:
+
+
 * Intro
   * Directories and the matlab path 
   * Loading data
@@ -18,9 +19,8 @@ Topics:
 
 
 -----------------------------
-##### Workshop /#2 (11/15/17)
+##### Workshop \#2 (11/15/17) topics:
 
-Topics:
 
 * Intro  
   * Directories
