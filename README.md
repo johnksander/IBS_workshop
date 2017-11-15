@@ -1,8 +1,9 @@
-## Matlab data analysis workshop for the Brandeis International Business School
-------------------------------------------------------------------------------------------
+## Matlab data analysis workshops for the Brandeis International Business School
 
-##### Workshop /#1 (09/29/17)
+
 -----------------------------
+##### Workshop /#1 (09/29/17)
+
 Topics:
  
 *Intro
@@ -16,9 +17,9 @@ Topics:
 *Bonus classification analysis
 
 
-
-##### Workshop /#1 (11/15/17)
 -----------------------------
+##### Workshop /#2 (11/15/17)
+
 Topics:
 
 *Intro
@@ -33,4 +34,5 @@ Topics:
 *Feature selection with Lasso regression
 
 
+-----------------------------
 For any questions or comments, please e-mail jksander@brandeis.edu
