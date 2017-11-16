@@ -12,11 +12,7 @@ format compact %removes extra spaces from the command window's output
 
 base_dir = 'C:\Users\jksander.000\Desktop\IBS_workshop\admin\IBS_workshop';
 data_dir = fullfile(base_dir,'data'); %fullfile() is an easy way to create directories 
-func_dir = fullfile(base_dir,'helper_functions');
-%If you want to use any extra functions or libraries, they must be in
-%matlab's path. Matlab won't know they exist otherwise 
-addpath(func_dir) %add our helper_functions directory to the path
-data_fn = fullfile(data_dir,'boston_housing.xlsx');
+data_fn = fullfile(data_dir,'boston_housing.xlsx'); %specify a filename 
 
 
 %----import the data----
